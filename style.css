@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+/* font-family: 'Bungee Spice', cursive; */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.head{
+    padding:1rem;
+    display: flex;
+    align-items: center;
+    background-color:green;
+    color: rgb(11, 85, 128);
+gap: 1rem; 
+}
+
+.new{
+    color: black;
+    font-size: 1.5rem;
+    text-decoration: none;
+    transition: 0.2;
+}
+
+.nav{
+gap: 2rem;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.icon{
+    font-size: large;
+}
+
+.main{
+    background-color: black;
+    color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.text{
+    color: green;
+    text-decoration: none;
+    font-size: large;
+    font-family: 'Bungee Spice', cursive;
+    flex-direction: column;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+h3{
+    font-size: larger;
+}
+
+body{
+    padding-bottom: 15px;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+#text{
+    color: green;
+    text-decoration: none;
+    font-size: large;
+    font-family: 'Bungee Spice', cursive;
+    flex-direction: column;
+}
+
+.touch{
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.touch :hover{
+    border: 10px ridge brown;
+    background-color: burlywood;
+    color: black;
+}
+
+.innerbox{ 
+    display: flex;
+    justify-content: center;
+    gap :20px;
+}
+
+.button{
+    background-color:black; 
+    color: green;
+    width: 100%;
+    border: none;
+    letter-spacing: 10px;
+    padding: 10px;
+}
+
+.stuff{
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.forme{
+    padding: 30px;
+    background-color: green;
+    
+}
+
+#cover, input{
+    border: 15px solid black ;
+}
+
+label{
+    background-color: black;
+    color: green;
+}
+
+table,th,td{
+    border: 5px solid green;
+    color: green;
+    background-color: black;
+    }
+    
+    .teaimg{
+        width: 300px;
+        height: 300px;
+        box-shadow: 63px 50px 16px 8px rgba(0,0,0,0.76);
+    -webkit-box-shadow: 63px 50px 16px 8px rgba(0,0,0,0.76);
+    -moz-box-shadow: 63px 50px 16px 8px rgba(0,0,0,0.76);
+    }
+    
+    .btn{
+        background-color: chocolate;
+        color: cornflowerblue;
+        font-size: 1.3rem;
+        border: none;
+        border-radius: 2rem;
+        padding :1.8rem 2rem 3rem; 
+        cursor: pointer;
+    }
+    
+    
+        .ok{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+
+    .TING{ 
+        height: 300px;
+        width: 300px;
+            background: url("https://wallpaperaccess.com/full/3512160.jpg") center center/cover;
+            }
+
+            .TIMG{ 
+                height: 300px;
+                width: 300px;
+                    background: url("https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Peacock%2C_East_Park%2C_Hull_-_panoramio.jpg/1200px-Peacock%2C_East_Park%2C_Hull_-_panoramio.jpg") center center/cover;
+                    }
+
+
+
+            
+
+
+        
+    
+
